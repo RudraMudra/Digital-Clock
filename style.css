@@ -35,7 +35,7 @@ html, body {
     font-weight: 600;
     letter-spacing: 1px;
     background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
-    /* -webkit-background-clip: text; */
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: animate 1.5s infinite;
 }
